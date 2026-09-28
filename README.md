@@ -30,11 +30,12 @@ If you have the GitHub CLI installed:
 
 ```bash
 gh repo create happydoge999/flappy-bird --public --source=. --remote=origin --push --description "Playable Flappy Bird web game" --license mit
+```
 
 Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any suggestions or improvements.
-```
+
 ETH: 0x2F6B79c8e1e51A760Ef7930b40eEF7d668098328
 
 This project is licensed under the MIT License. See `LICENSE`.
